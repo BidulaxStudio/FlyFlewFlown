@@ -1,0 +1,9 @@
+name: FlyFlewFlown
+version: ${project.version}
+main: eu.bidulaxstudio.flyflewflown.Main
+api-version: 1.16
+description: The FlyFlewFlown plugin !
+commands:
+  fff:
+    description: The FliFlewFlown's command
+    permission: op
